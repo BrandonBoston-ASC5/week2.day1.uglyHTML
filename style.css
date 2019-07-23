@@ -3,6 +3,7 @@ html{
 }
 .top{
     background:rgb(53,53,53);
+    text-align: center;
 }
 header{
     font-family: 'Tangerine', cursive;
@@ -17,8 +18,7 @@ color:whitesmoke;
 }
 img{
     width:540px;
-    align-content: center;
-    margin-left: 660px;
+    
 }
 .all_watches_container{
     background: rgb(53,53,53)
